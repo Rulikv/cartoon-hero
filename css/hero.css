@@ -6,13 +6,14 @@ html, body {
 header {
 	background-color: #d2dfdf;
 	padding: 40px 20px 10px 20px;
+	text-align: center;
 }
 
 h1 {
 	font-size: 60px;
 	color: #151e1e;
-	display: inline-block;
 }
+
 header img {
 	border-radius: 150px;
 	width: 250px;
