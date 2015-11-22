@@ -3,17 +3,21 @@ html, body {
 	margin: 0;
 }
 
-img.profile {
-	
+img.profile-image {
+	display: inline-block;
+	position: left;
 }
+
 header {
 	background-color: #d2dfdf;
-	padding: 40px;
-	text-align: center;
+	padding: 40px 20px 10px 20px;
 }
+
 h1 {
 	font-size: 60px;
 	color: #151e1e;
+	text-align: center;
+	display: inline-block;
 }
 header img {
 	border-radius: 150px;
@@ -33,7 +37,7 @@ img.big-image {
 
 p.caption {
 	font-size: 14px;
-	color: lightgrey;
+	color: grey;
 	font-style: italic;
 }
 
@@ -59,7 +63,7 @@ h2 {
 footer {
 	margin-top: 20px;
 	padding: 40px 20px;
-	background-color: #b3ffff;
+	background-color: #d9ffb3;
 }
 
 footer ul {
