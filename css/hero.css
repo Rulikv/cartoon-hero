@@ -1,0 +1,77 @@
+html, body {
+	font-family: Verdana, sans-serif;
+	margin: 0;
+}
+
+img.profile {
+	
+}
+header {
+	background-color: #d2dfdf;
+	padding: 40px;
+	text-align: center;
+}
+h1 {
+	font-size: 60px;
+	color: #151e1e;
+}
+header img {
+	border-radius: 150px;
+	width: 250px;
+	border: 10px solid #fff0e5;
+}
+
+.content {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image {
+	max-width: 80%;
+}
+
+p.caption {
+	font-size: 14px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	color: #80002a;
+	text-decoration: none;
+}
+
+img.small-image {
+	max-width: 10%
+}
+
+h2 {
+	margin: 60px 0 20px 0;
+}
+
+footer {
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #b3ffff;
+}
+
+footer ul {
+	text-align: center;
+}
+
+footer ul li {
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+	<img src="img/profile.jpg">
+	<h1>Finn the Human</h1>
+</header>*/
