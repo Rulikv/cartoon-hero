@@ -1,6 +1,12 @@
+/*Alternative css: Profile picture positioning is left, title to be made inline with the picture*/
 html, body {
 	font-family: Verdana, sans-serif;
 	margin: 0;
+}
+
+img.profile-image {
+	display: inline-block;
+	position: left;
 }
 
 header {
@@ -11,6 +17,7 @@ header {
 h1 {
 	font-size: 60px;
 	color: #151e1e;
+	text-align: center;
 	display: inline-block;
 }
 header img {
